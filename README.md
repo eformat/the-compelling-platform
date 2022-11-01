@@ -11,6 +11,7 @@ A _key_ ingredient for success when building a platform is that it must be _comp
 - The platform has a rich internal user community for sharing
 - The platform is secure and compliant by default
 - The platform is up to date
+- The platform is the thinnest viable
 
 A platform should also be more than just software and APIs - it is documentation, and consulting, and support and evangelism, and templates and guidelines.
 
