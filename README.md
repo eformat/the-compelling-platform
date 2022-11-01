@@ -34,6 +34,4 @@ The _Thinnest Viable Platform_ is a small, curated set of complementary services
 
 The platform will evolve and its design should meet common team interaction modes.
 
-<div style="text-align: right">
-<a href="PATTERNS.md">Patterns for the Compelling Platform</a>
-</div>
+[Patterns for the Compelling Platform >](PATTERNS.md)
