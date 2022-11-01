@@ -6,6 +6,7 @@ _"An antipattern is a solution that initially looks like an attractive road line
 
 - Not boiling the ocean
 - Platform evolution
+- Measuring success
 
 > The platform is composable, containing discrete services that can be used independently.
 
