@@ -35,6 +35,7 @@ _"An antipattern is a solution that initially looks like an attractive road line
 - You build it, You ship it, You run it, You own it
 - Any workload, any cloud
 - We prefer Lean Agile to Waterfall delivery
+  - DevOps Culture and Practice with OpenShift
 - The use of SaaS
 
 > The platform is quick and cheap to start using, with an easy on-ramp (e.g. Quick start guides, documentation, code samples)
